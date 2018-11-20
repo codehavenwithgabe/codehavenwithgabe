@@ -9,7 +9,7 @@ Debounce, plain and simple, is a way for you to limit the number of times a func
 Let’s say that you have an ajax call that happens when a user types into a search field. Triggering this call every ‘keyup’ event can get pretty taxing, and a bit unnecessary.  This is where debounce comes in.
 
 ### Debounce
-Here is a debounce method implemented using ES6
+Here is a debounce method implemented using ES6 
 
 ```
 // timeout is our timer containing our later method call.
